@@ -1,6 +1,7 @@
 # Cryptowolf - Explore the World of Cryptocurrency
 
-![Cryptowolf](https://i.ibb.co/8gh5Jc8/image.png)
+![Cryptowolf]()![cryptowolf](https://user-images.githubusercontent.com/60442686/212491986-40c78ada-3be6-479a-98d4-856c1823cd37.png)
+
 
 ## Introduction
 
