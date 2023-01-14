@@ -35,7 +35,7 @@ const App = () => (
       <div className="footer">
         <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>Copyright © 2023
           <Link to="/">
-            <b>&</b>Cryptowolf Inc.
+            <span>&</span>Cryptowolf Inc.
           </Link> <br />
           All Rights Reserved.
         </Typography.Title>
