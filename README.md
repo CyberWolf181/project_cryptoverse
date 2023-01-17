@@ -6,4 +6,6 @@
 
 In this project I use React and multiple APIs powered by https://rapidapi.com.
 
+Project Link: https://cryptokurt.netlify.app/
+
 
